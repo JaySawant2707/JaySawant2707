@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JaySawant2707
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m Jay Sawant
+- 👀 I’m interested in Web and Game Development
 - 🌱 I’m currently learning Coding languages
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once sculpted a miniature version of my pet out of clay, and it turned out to be a spitting image! It now proudly sits on my desk, adding a touch of whimsy to my workspace.
