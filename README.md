@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay Sawant
-- 👀 I’m interested in Web and Game Development
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Coding languages
 - 😄 Pronouns: he/him
 
